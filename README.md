@@ -1,4 +1,4 @@
-# Yandex.Disk downloadable direct links extractor
+# Yandex.Disk direct links extractor
 
 Get direct links from sharing links for files stored in Yandex.Disk.
 
